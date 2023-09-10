@@ -10,3 +10,21 @@ p{
     background-color: aqua;
     font-family:'Times New Roman', Times, serif;
 }
+button{
+    border: none;
+    padding: 12px 30px;
+    border-radius: 50px;
+    background-color: red;
+    
+}
+button:hover{
+    border: 2px solid red;
+    background-color:#fff;
+    color: red;
+}
+.box{
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(251, 133, 251);
+}
